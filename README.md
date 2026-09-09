@@ -32,5 +32,10 @@ def calculate(a, b):
 
 if __name__ == "__main__":
     print(calculate(10, 5))
-The output is:
-15
+
+### The important part
+
+You need **three backticks** after the Python code:
+
+```text
+print(calculate(10, 5))
