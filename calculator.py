@@ -1,5 +1,5 @@
 def calculate(a, b):
-    return a + b + 10
+    return (a * b) + 10
 
 
 if __name__ == "__main__":
